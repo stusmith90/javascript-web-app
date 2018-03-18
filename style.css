@@ -1,0 +1,13 @@
+#content img{
+
+width:100px;
+height:100px;
+display:inline;
+
+}
+
+#content p:first-child{
+	
+	background-color:black;
+	
+}
